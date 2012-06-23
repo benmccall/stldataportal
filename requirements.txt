@@ -4,5 +4,5 @@
 # pip install -r requirements.pip
 
 git+git://github.com/pinax/django-flag.git#egg=django_flag
-git+git://github.com/simod/geonode-documents.git#egg=documents
+git+git://github.com/iogoinc/geonode-documents.git#egg=documents
 git+git://github.com/howiworkdaily/django-faq.git#egg=django_faq
