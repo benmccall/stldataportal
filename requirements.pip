@@ -1,0 +1,8 @@
+# This file collects all required third-party applications that are needed
+# to run this project. You can install all these apps using pip. Example::
+#
+# pip install -r requirements.pip
+
+git+git://github.com/pinax/django-flag.git#egg=django_flag
+git+git://github.com/simod/geonode-documents.git#egg=documents
+git+git://github.com/howiworkdaily/django-faq.git#egg=django_faq
