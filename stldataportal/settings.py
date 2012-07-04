@@ -217,7 +217,7 @@ LOGIN_REDIRECT_URL = "/"
 
 # Tags (See: https://github.com/liberation/django-flag#readme)
 FLAG_ALLOW_COMMENTS = True
-FLAG_LIMIT_SAME_OBJECT_FOR_USER = 1
+FLAG_LIMIT_SAME_OBJECT_FOR_USER = 2
 FLAG_LIMIT_FOR_OBJECT = 0
 FLAG_MODELS = (
     'maps.map',
